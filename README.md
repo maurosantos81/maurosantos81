@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maurosantos81&label=Profile%20views&color=0e75b6&style=flat" alt="maurosantos81" /> </p>
 
-🔭 Working at [Eviden](https://www.eviden.com) for almost 2 years.<br>
+🔭 Working at [Atos](https://www.atos.net) for 2+ years.<br>
 🎓 Graduated with a degree in Computer Engineering from the [University of Algarve](https://www.ualg.pt/) in 2022.<br>
 🌱 Constantly learning and improving my skills.<br>
 💬 Ask me about Java, Next.js, or anything related to software development.<br>
