@@ -7,9 +7,6 @@
 🌱 Constantly learning and improving my skills.<br>
 💬 Ask me about Java, Next.js, or anything related to software development.<br>
 
-<br>
-<img align="center" style="margin-bottom:200px; margin-top:200px; object-fit: contain" width=100% src="https://private-user-images.githubusercontent.com/74038190/240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE4MDcwMDcsIm5iZiI6MTcxMTgwNjcwNywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTUwNjgtOTkzMzcwYWYtMTFmNC00OGU3LTllMGQtZTViNzljMmU3ODkwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzMwVDEzNTE0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI0YjMwZjllM2U4NWY0MmQ3ZDFkOGJmNTU2MmEyNzFjMDBjZWM4YjY1YWNiZTMwZjVlNzYxZTM4OTMwODMzMzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.zEMUareCmuTB207mjGUz10paT6Tu_x7jSEW_5R26BEQ" />
-<br>
 <!-- https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif -->
 
 ## 💻 Technologies & Skills
